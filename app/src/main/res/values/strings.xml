@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="myName">Chai Jun Jie</string>
+    <string name="profile_pic">profilePic</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tSJKC chung hwa presbyterian,MUAR\n
+        \n\tSMK SRI MUAR,MUAR\n
+        \n\tTunku Abdul Rahman University College\n
+        \n\tSJKC chung hwa presbyterian,MUAR\n
+        \n\tSMK SRI MUAR,MUAR\n
+        \n\tTunku Abdul Rahman University College\n
+        \n\tSJKC chung hwa presbyterian,MUAR\n
+        \n\tSMK SRI MUAR,MUAR\n
+        \n\tTunku Abdul Rahman University College\n
+        \n\tSJKC chung hwa presbyterian,MUAR\n
+        \n\tSMK SRI MUAR,MUAR\n
+        \n\tTunku Abdul Rahman University College\n
+        \n\tSJKC chung hwa presbyterian,MUAR\n
+        \n\tSMK SRI MUAR,MUAR\n
+        \n\tTunku Abdul Rahman University College\n
+    </string>
+</resources>
